@@ -143,3 +143,17 @@ This project is open source and available under the MIT License.
 ## 🎉 Acknowledgments
 
 Built with modern web technologies to provide an enjoyable gaming experience. Special thanks to the React and TailwindCSS communities for their amazing tools and documentation.
+
+## 🔊 Sound Credits
+
+Some of the sound effects used in this project are sourced from these amazing free resources:
+
+<a href="https://mixkit.co/free-sound-effects/tap/" target="_blank" style="display:inline-block;margin-right:16px;vertical-align:middle;">
+</a>
+<a href="https://kenney.nl/assets/interface-sounds" target="_blank" style="display:inline-block;vertical-align:middle;">
+</a>
+
+- [Mixkit](https://mixkit.co/) — Free sound effects & music
+- [Kenney](https://kenney.nl/) — Free game assets
+
+Thank you to these creators for making high-quality assets available to the community!
