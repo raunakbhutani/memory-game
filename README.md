@@ -52,7 +52,7 @@ Fruit Memory is a classic memory matching game where players flip cards to find 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/raunakbhutani/memory-game
    cd memory-card-game
    ```
 
